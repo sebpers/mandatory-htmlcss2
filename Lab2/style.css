@@ -73,15 +73,9 @@ header > h1 {
 
 /* Images */
 .image-container {
-  width: 80%;
-  margin: auto;
   margin-top: 75px;
   display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
   flex-flow: row wrap;
-
-
 }
 
 .test {
